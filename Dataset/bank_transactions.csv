@@ -1,0 +1,1001 @@
+Customer_ID,Products
+CUST_1,"Car Loan, Life Insurance, Savings Account, Fixed Deposit, Health Insurance"
+CUST_2,"Car Loan, Health Insurance, Savings Account, Home Loan, Debit Card"
+CUST_3,Life Insurance
+CUST_4,"Credit Card, Home Insurance"
+CUST_5,"Health Insurance, Mutual Fund"
+CUST_6,"Health Insurance, Current Account, Personal Loan, Car Loan, Mutual Fund"
+CUST_7,Health Insurance
+CUST_8,"Life Insurance, Home Loan, Home Insurance, Debit Card, Car Loan"
+CUST_9,"Fixed Deposit, Current Account, Car Loan, Home Insurance"
+CUST_10,"Savings Account, Debit Card, Fixed Deposit"
+CUST_11,"Current Account, Life Insurance, Credit Card"
+CUST_12,Car Loan
+CUST_13,"Mutual Fund, Home Loan, Savings Account"
+CUST_14,"Debit Card, Current Account, Personal Loan"
+CUST_15,Health Insurance
+CUST_16,"Home Loan, Debit Card"
+CUST_17,Home Insurance
+CUST_18,"Mutual Fund, Personal Loan, Debit Card"
+CUST_19,Credit Card
+CUST_20,"Personal Loan, Fixed Deposit, Debit Card, Life Insurance"
+CUST_21,Car Loan
+CUST_22,Personal Loan
+CUST_23,"Home Loan, Life Insurance, Credit Card"
+CUST_24,"Savings Account, Car Loan, Mutual Fund"
+CUST_25,"Credit Card, Debit Card, Life Insurance"
+CUST_26,"Debit Card, Mutual Fund, Savings Account"
+CUST_27,Current Account
+CUST_28,"Personal Loan, Fixed Deposit, Life Insurance, Car Loan"
+CUST_29,Fixed Deposit
+CUST_30,"Current Account, Mutual Fund, Car Loan"
+CUST_31,"Personal Loan, Debit Card, Home Loan"
+CUST_32,Debit Card
+CUST_33,Savings Account
+CUST_34,Current Account
+CUST_35,"Fixed Deposit, Personal Loan, Current Account"
+CUST_36,"Fixed Deposit, Life Insurance"
+CUST_37,"Car Loan, Home Loan"
+CUST_38,"Savings Account, Home Insurance, Car Loan, Home Loan, Mutual Fund"
+CUST_39,"Home Loan, Personal Loan"
+CUST_40,Credit Card
+CUST_41,Personal Loan
+CUST_42,"Life Insurance, Personal Loan, Debit Card, Savings Account"
+CUST_43,"Credit Card, Savings Account, Home Insurance, Home Loan, Mutual Fund"
+CUST_44,Fixed Deposit
+CUST_45,"Home Loan, Health Insurance, Savings Account, Credit Card"
+CUST_46,"Mutual Fund, Health Insurance, Credit Card, Life Insurance"
+CUST_47,"Home Loan, Mutual Fund, Personal Loan"
+CUST_48,"Car Loan, Home Loan, Current Account, Life Insurance"
+CUST_49,"Fixed Deposit, Mutual Fund, Home Loan, Debit Card"
+CUST_50,"Health Insurance, Mutual Fund"
+CUST_51,"Health Insurance, Life Insurance, Home Insurance"
+CUST_52,"Fixed Deposit, Home Loan, Health Insurance, Savings Account, Life Insurance"
+CUST_53,"Credit Card, Car Loan, Personal Loan, Home Loan"
+CUST_54,"Fixed Deposit, Health Insurance, Home Loan, Debit Card"
+CUST_55,"Credit Card, Mutual Fund, Fixed Deposit, Health Insurance, Savings Account"
+CUST_56,Life Insurance
+CUST_57,Mutual Fund
+CUST_58,Life Insurance
+CUST_59,"Savings Account, Home Loan, Health Insurance, Fixed Deposit, Life Insurance"
+CUST_60,"Car Loan, Fixed Deposit, Life Insurance, Home Insurance, Mutual Fund"
+CUST_61,"Fixed Deposit, Home Loan, Savings Account"
+CUST_62,Car Loan
+CUST_63,"Home Insurance, Debit Card, Health Insurance"
+CUST_64,"Car Loan, Savings Account"
+CUST_65,"Home Insurance, Life Insurance"
+CUST_66,"Debit Card, Credit Card, Car Loan, Savings Account"
+CUST_67,"Health Insurance, Debit Card, Current Account, Credit Card, Car Loan"
+CUST_68,"Health Insurance, Car Loan, Current Account, Fixed Deposit"
+CUST_69,"Fixed Deposit, Home Insurance, Car Loan, Life Insurance"
+CUST_70,"Savings Account, Life Insurance, Home Loan, Health Insurance"
+CUST_71,"Life Insurance, Credit Card"
+CUST_72,"Credit Card, Fixed Deposit, Life Insurance, Current Account"
+CUST_73,"Car Loan, Home Insurance, Credit Card"
+CUST_74,Health Insurance
+CUST_75,"Personal Loan, Mutual Fund, Fixed Deposit, Life Insurance"
+CUST_76,"Mutual Fund, Home Insurance, Fixed Deposit"
+CUST_77,"Home Loan, Life Insurance"
+CUST_78,"Current Account, Credit Card"
+CUST_79,"Credit Card, Debit Card, Current Account, Life Insurance"
+CUST_80,"Life Insurance, Car Loan"
+CUST_81,"Debit Card, Personal Loan"
+CUST_82,"Personal Loan, Car Loan, Home Loan, Life Insurance"
+CUST_83,Home Loan
+CUST_84,"Personal Loan, Credit Card, Life Insurance, Car Loan, Savings Account"
+CUST_85,"Savings Account, Credit Card, Fixed Deposit, Current Account"
+CUST_86,"Fixed Deposit, Personal Loan"
+CUST_87,"Savings Account, Life Insurance, Personal Loan, Home Loan, Mutual Fund"
+CUST_88,Credit Card
+CUST_89,"Credit Card, Fixed Deposit"
+CUST_90,"Mutual Fund, Debit Card, Fixed Deposit"
+CUST_91,"Home Loan, Current Account, Savings Account"
+CUST_92,"Savings Account, Car Loan, Current Account"
+CUST_93,"Credit Card, Fixed Deposit, Health Insurance, Current Account"
+CUST_94,"Life Insurance, Current Account, Home Loan"
+CUST_95,"Home Insurance, Debit Card, Health Insurance, Personal Loan, Life Insurance"
+CUST_96,Mutual Fund
+CUST_97,"Debit Card, Current Account"
+CUST_98,"Debit Card, Health Insurance, Current Account, Credit Card"
+CUST_99,"Health Insurance, Current Account, Fixed Deposit, Home Insurance, Car Loan"
+CUST_100,"Fixed Deposit, Health Insurance, Current Account, Car Loan"
+CUST_101,Personal Loan
+CUST_102,"Car Loan, Current Account"
+CUST_103,"Credit Card, Personal Loan, Home Insurance"
+CUST_104,Personal Loan
+CUST_105,"Current Account, Fixed Deposit, Life Insurance"
+CUST_106,"Debit Card, Car Loan"
+CUST_107,"Health Insurance, Mutual Fund, Car Loan, Credit Card, Home Loan"
+CUST_108,"Car Loan, Debit Card, Personal Loan, Savings Account, Current Account"
+CUST_109,"Personal Loan, Mutual Fund"
+CUST_110,"Mutual Fund, Personal Loan, Home Insurance, Credit Card, Car Loan"
+CUST_111,"Debit Card, Savings Account, Car Loan, Life Insurance, Current Account"
+CUST_112,Car Loan
+CUST_113,"Credit Card, Car Loan, Savings Account, Health Insurance, Personal Loan"
+CUST_114,"Mutual Fund, Credit Card"
+CUST_115,"Health Insurance, Current Account, Home Insurance, Mutual Fund, Savings Account"
+CUST_116,"Debit Card, Credit Card"
+CUST_117,Debit Card
+CUST_118,"Personal Loan, Home Loan"
+CUST_119,"Credit Card, Personal Loan, Savings Account"
+CUST_120,"Home Loan, Fixed Deposit, Current Account"
+CUST_121,"Car Loan, Debit Card, Fixed Deposit, Home Loan, Home Insurance"
+CUST_122,"Fixed Deposit, Home Loan, Car Loan, Mutual Fund"
+CUST_123,"Car Loan, Savings Account"
+CUST_124,"Home Insurance, Credit Card, Fixed Deposit, Home Loan, Current Account"
+CUST_125,"Debit Card, Home Loan, Health Insurance, Car Loan, Life Insurance"
+CUST_126,"Personal Loan, Health Insurance, Car Loan, Life Insurance, Current Account"
+CUST_127,"Current Account, Home Loan"
+CUST_128,"Debit Card, Home Loan, Personal Loan, Savings Account, Home Insurance"
+CUST_129,"Fixed Deposit, Mutual Fund, Personal Loan"
+CUST_130,"Current Account, Personal Loan, Health Insurance, Car Loan"
+CUST_131,"Fixed Deposit, Car Loan"
+CUST_132,"Home Insurance, Savings Account, Fixed Deposit, Health Insurance, Current Account"
+CUST_133,"Health Insurance, Debit Card, Home Loan, Life Insurance, Savings Account"
+CUST_134,"Savings Account, Credit Card"
+CUST_135,"Home Insurance, Mutual Fund, Savings Account"
+CUST_136,"Car Loan, Home Insurance, Debit Card"
+CUST_137,"Mutual Fund, Life Insurance"
+CUST_138,Savings Account
+CUST_139,"Fixed Deposit, Home Insurance, Mutual Fund, Health Insurance"
+CUST_140,"Savings Account, Mutual Fund, Current Account, Health Insurance, Home Insurance"
+CUST_141,"Personal Loan, Home Loan, Credit Card"
+CUST_142,"Debit Card, Credit Card, Mutual Fund, Fixed Deposit"
+CUST_143,Credit Card
+CUST_144,"Savings Account, Credit Card, Fixed Deposit, Current Account"
+CUST_145,"Savings Account, Life Insurance"
+CUST_146,"Fixed Deposit, Debit Card, Savings Account, Life Insurance"
+CUST_147,"Savings Account, Credit Card"
+CUST_148,"Credit Card, Health Insurance"
+CUST_149,"Life Insurance, Credit Card, Car Loan, Home Loan"
+CUST_150,Car Loan
+CUST_151,"Fixed Deposit, Credit Card, Personal Loan"
+CUST_152,"Current Account, Fixed Deposit, Debit Card, Home Insurance"
+CUST_153,"Car Loan, Home Loan, Home Insurance, Personal Loan"
+CUST_154,"Current Account, Personal Loan, Home Loan, Debit Card"
+CUST_155,Mutual Fund
+CUST_156,"Current Account, Savings Account, Credit Card, Debit Card, Life Insurance"
+CUST_157,Savings Account
+CUST_158,"Savings Account, Current Account, Mutual Fund, Fixed Deposit"
+CUST_159,Car Loan
+CUST_160,"Debit Card, Health Insurance, Car Loan"
+CUST_161,"Home Insurance, Personal Loan, Debit Card, Fixed Deposit"
+CUST_162,"Health Insurance, Savings Account, Car Loan, Mutual Fund, Home Insurance"
+CUST_163,"Personal Loan, Life Insurance, Home Loan, Health Insurance, Debit Card"
+CUST_164,"Current Account, Life Insurance, Car Loan, Home Loan, Mutual Fund"
+CUST_165,"Car Loan, Home Insurance, Health Insurance, Personal Loan, Fixed Deposit"
+CUST_166,"Car Loan, Home Loan, Savings Account, Life Insurance"
+CUST_167,"Life Insurance, Personal Loan, Mutual Fund, Car Loan, Current Account"
+CUST_168,"Current Account, Mutual Fund, Debit Card, Health Insurance"
+CUST_169,"Credit Card, Car Loan, Personal Loan, Life Insurance"
+CUST_170,"Home Insurance, Fixed Deposit"
+CUST_171,"Fixed Deposit, Home Insurance"
+CUST_172,"Car Loan, Debit Card, Savings Account, Mutual Fund"
+CUST_173,"Savings Account, Current Account, Life Insurance, Mutual Fund, Home Insurance"
+CUST_174,"Mutual Fund, Fixed Deposit, Personal Loan, Credit Card"
+CUST_175,"Credit Card, Health Insurance, Savings Account"
+CUST_176,"Health Insurance, Debit Card"
+CUST_177,"Home Insurance, Personal Loan, Debit Card, Home Loan"
+CUST_178,"Fixed Deposit, Mutual Fund, Debit Card"
+CUST_179,"Life Insurance, Home Insurance, Savings Account, Current Account, Credit Card"
+CUST_180,"Car Loan, Debit Card, Current Account, Health Insurance"
+CUST_181,"Life Insurance, Debit Card, Car Loan"
+CUST_182,"Health Insurance, Fixed Deposit, Credit Card, Life Insurance"
+CUST_183,"Home Loan, Personal Loan, Credit Card, Fixed Deposit, Current Account"
+CUST_184,"Health Insurance, Home Insurance, Debit Card, Life Insurance"
+CUST_185,"Fixed Deposit, Home Insurance"
+CUST_186,"Personal Loan, Debit Card, Fixed Deposit, Health Insurance"
+CUST_187,"Credit Card, Current Account, Health Insurance, Home Loan, Mutual Fund"
+CUST_188,"Credit Card, Life Insurance, Savings Account"
+CUST_189,"Home Insurance, Debit Card, Mutual Fund, Personal Loan, Car Loan"
+CUST_190,"Fixed Deposit, Home Loan, Mutual Fund, Credit Card, Home Insurance"
+CUST_191,"Credit Card, Home Loan, Savings Account, Health Insurance, Life Insurance"
+CUST_192,"Savings Account, Debit Card, Life Insurance"
+CUST_193,"Life Insurance, Health Insurance, Personal Loan, Fixed Deposit"
+CUST_194,"Mutual Fund, Life Insurance, Credit Card, Personal Loan"
+CUST_195,"Health Insurance, Mutual Fund"
+CUST_196,"Credit Card, Savings Account"
+CUST_197,"Debit Card, Mutual Fund, Savings Account, Home Loan, Health Insurance"
+CUST_198,"Car Loan, Personal Loan, Home Insurance, Health Insurance, Savings Account"
+CUST_199,"Car Loan, Home Loan"
+CUST_200,"Car Loan, Life Insurance, Current Account, Credit Card"
+CUST_201,"Savings Account, Home Insurance, Debit Card, Fixed Deposit, Health Insurance"
+CUST_202,Savings Account
+CUST_203,Credit Card
+CUST_204,"Home Loan, Home Insurance, Current Account"
+CUST_205,"Home Insurance, Current Account, Mutual Fund, Health Insurance"
+CUST_206,"Debit Card, Credit Card"
+CUST_207,Debit Card
+CUST_208,"Home Loan, Current Account, Mutual Fund"
+CUST_209,"Mutual Fund, Personal Loan, Credit Card, Current Account"
+CUST_210,Car Loan
+CUST_211,"Health Insurance, Credit Card"
+CUST_212,"Savings Account, Personal Loan, Mutual Fund, Life Insurance"
+CUST_213,"Personal Loan, Savings Account, Home Insurance"
+CUST_214,Mutual Fund
+CUST_215,Personal Loan
+CUST_216,"Fixed Deposit, Car Loan, Health Insurance"
+CUST_217,"Home Insurance, Current Account, Life Insurance"
+CUST_218,"Savings Account, Debit Card, Personal Loan, Fixed Deposit"
+CUST_219,Life Insurance
+CUST_220,"Home Loan, Home Insurance, Credit Card"
+CUST_221,"Fixed Deposit, Personal Loan"
+CUST_222,"Current Account, Mutual Fund"
+CUST_223,Credit Card
+CUST_224,"Savings Account, Credit Card, Life Insurance"
+CUST_225,Mutual Fund
+CUST_226,"Car Loan, Debit Card"
+CUST_227,"Credit Card, Personal Loan, Car Loan, Life Insurance, Fixed Deposit"
+CUST_228,"Credit Card, Home Loan"
+CUST_229,"Personal Loan, Current Account, Life Insurance, Mutual Fund, Credit Card"
+CUST_230,"Fixed Deposit, Current Account"
+CUST_231,"Home Insurance, Mutual Fund"
+CUST_232,"Debit Card, Home Loan, Mutual Fund, Savings Account, Health Insurance"
+CUST_233,"Life Insurance, Home Insurance, Current Account"
+CUST_234,"Savings Account, Mutual Fund"
+CUST_235,"Personal Loan, Credit Card, Life Insurance"
+CUST_236,"Life Insurance, Fixed Deposit, Personal Loan, Health Insurance"
+CUST_237,"Mutual Fund, Home Insurance"
+CUST_238,"Mutual Fund, Personal Loan"
+CUST_239,"Home Insurance, Personal Loan, Savings Account, Fixed Deposit"
+CUST_240,"Fixed Deposit, Mutual Fund"
+CUST_241,"Debit Card, Fixed Deposit, Home Loan, Personal Loan"
+CUST_242,"Home Loan, Health Insurance, Home Insurance, Personal Loan, Debit Card"
+CUST_243,Mutual Fund
+CUST_244,"Personal Loan, Health Insurance, Credit Card, Savings Account, Home Loan"
+CUST_245,"Credit Card, Current Account, Mutual Fund"
+CUST_246,"Savings Account, Car Loan, Current Account, Credit Card"
+CUST_247,"Car Loan, Credit Card, Health Insurance, Home Insurance"
+CUST_248,"Home Insurance, Current Account"
+CUST_249,"Car Loan, Home Insurance, Personal Loan, Savings Account"
+CUST_250,"Current Account, Personal Loan, Health Insurance"
+CUST_251,"Fixed Deposit, Car Loan, Home Insurance"
+CUST_252,Debit Card
+CUST_253,"Credit Card, Debit Card, Mutual Fund, Fixed Deposit"
+CUST_254,"Car Loan, Fixed Deposit, Home Insurance, Health Insurance"
+CUST_255,"Car Loan, Fixed Deposit, Health Insurance, Home Loan"
+CUST_256,"Current Account, Fixed Deposit"
+CUST_257,"Health Insurance, Home Loan, Mutual Fund, Debit Card, Car Loan"
+CUST_258,"Mutual Fund, Personal Loan, Home Insurance, Home Loan, Credit Card"
+CUST_259,"Health Insurance, Home Loan, Personal Loan, Fixed Deposit"
+CUST_260,Savings Account
+CUST_261,Debit Card
+CUST_262,"Fixed Deposit, Current Account, Home Insurance, Savings Account"
+CUST_263,"Savings Account, Health Insurance, Mutual Fund, Personal Loan"
+CUST_264,"Life Insurance, Debit Card"
+CUST_265,"Credit Card, Fixed Deposit, Health Insurance"
+CUST_266,"Savings Account, Life Insurance"
+CUST_267,Personal Loan
+CUST_268,"Current Account, Home Insurance, Car Loan"
+CUST_269,"Home Loan, Home Insurance, Mutual Fund, Credit Card"
+CUST_270,"Car Loan, Current Account, Debit Card, Mutual Fund, Personal Loan"
+CUST_271,Car Loan
+CUST_272,Personal Loan
+CUST_273,"Credit Card, Home Insurance, Mutual Fund"
+CUST_274,"Life Insurance, Car Loan"
+CUST_275,"Debit Card, Car Loan, Life Insurance, Credit Card, Personal Loan"
+CUST_276,"Personal Loan, Debit Card, Home Insurance, Credit Card"
+CUST_277,"Home Loan, Life Insurance, Mutual Fund, Car Loan"
+CUST_278,"Debit Card, Fixed Deposit, Home Insurance"
+CUST_279,Car Loan
+CUST_280,Car Loan
+CUST_281,Savings Account
+CUST_282,"Home Insurance, Life Insurance"
+CUST_283,"Savings Account, Life Insurance, Mutual Fund, Current Account, Health Insurance"
+CUST_284,"Credit Card, Home Insurance"
+CUST_285,"Health Insurance, Mutual Fund, Home Insurance, Life Insurance"
+CUST_286,Mutual Fund
+CUST_287,"Life Insurance, Home Loan, Health Insurance, Fixed Deposit"
+CUST_288,Credit Card
+CUST_289,"Personal Loan, Health Insurance"
+CUST_290,"Savings Account, Current Account, Life Insurance, Fixed Deposit, Home Insurance"
+CUST_291,Credit Card
+CUST_292,"Debit Card, Personal Loan, Home Insurance, Health Insurance, Home Loan"
+CUST_293,"Current Account, Debit Card, Health Insurance"
+CUST_294,"Home Loan, Current Account, Home Insurance, Credit Card"
+CUST_295,"Savings Account, Credit Card, Mutual Fund, Car Loan"
+CUST_296,"Home Loan, Mutual Fund, Credit Card, Health Insurance, Car Loan"
+CUST_297,"Mutual Fund, Fixed Deposit, Life Insurance, Savings Account, Health Insurance"
+CUST_298,"Mutual Fund, Current Account, Personal Loan, Credit Card"
+CUST_299,"Current Account, Debit Card"
+CUST_300,"Mutual Fund, Car Loan"
+CUST_301,"Debit Card, Savings Account, Current Account"
+CUST_302,"Current Account, Home Loan, Debit Card, Life Insurance, Savings Account"
+CUST_303,"Home Loan, Health Insurance, Debit Card"
+CUST_304,"Home Insurance, Life Insurance, Health Insurance, Savings Account, Current Account"
+CUST_305,"Savings Account, Debit Card, Fixed Deposit, Credit Card, Home Loan"
+CUST_306,"Debit Card, Personal Loan, Home Loan, Car Loan"
+CUST_307,"Home Loan, Savings Account, Credit Card, Life Insurance, Car Loan"
+CUST_308,"Credit Card, Mutual Fund"
+CUST_309,"Home Insurance, Savings Account"
+CUST_310,"Health Insurance, Personal Loan, Mutual Fund"
+CUST_311,"Health Insurance, Debit Card"
+CUST_312,"Home Loan, Debit Card, Savings Account"
+CUST_313,"Home Loan, Debit Card"
+CUST_314,"Mutual Fund, Home Loan, Savings Account, Home Insurance"
+CUST_315,"Home Loan, Credit Card, Current Account, Life Insurance"
+CUST_316,"Home Loan, Personal Loan, Mutual Fund"
+CUST_317,Life Insurance
+CUST_318,"Fixed Deposit, Savings Account"
+CUST_319,"Car Loan, Home Insurance, Mutual Fund"
+CUST_320,"Mutual Fund, Health Insurance"
+CUST_321,"Credit Card, Debit Card, Current Account"
+CUST_322,"Fixed Deposit, Savings Account"
+CUST_323,"Home Loan, Personal Loan, Life Insurance, Credit Card"
+CUST_324,Health Insurance
+CUST_325,"Car Loan, Savings Account, Mutual Fund, Debit Card"
+CUST_326,"Life Insurance, Mutual Fund"
+CUST_327,"Life Insurance, Personal Loan, Fixed Deposit"
+CUST_328,"Credit Card, Personal Loan, Savings Account"
+CUST_329,Savings Account
+CUST_330,Personal Loan
+CUST_331,"Fixed Deposit, Health Insurance, Car Loan, Credit Card"
+CUST_332,"Life Insurance, Home Loan"
+CUST_333,"Personal Loan, Credit Card, Current Account, Fixed Deposit"
+CUST_334,"Home Loan, Car Loan, Fixed Deposit, Savings Account"
+CUST_335,"Home Loan, Car Loan, Debit Card, Home Insurance, Health Insurance"
+CUST_336,"Credit Card, Fixed Deposit, Health Insurance, Personal Loan"
+CUST_337,"Life Insurance, Health Insurance, Savings Account, Home Loan, Debit Card"
+CUST_338,Health Insurance
+CUST_339,Credit Card
+CUST_340,Current Account
+CUST_341,"Health Insurance, Savings Account, Home Insurance, Personal Loan"
+CUST_342,"Current Account, Savings Account"
+CUST_343,"Car Loan, Home Loan, Life Insurance, Home Insurance, Health Insurance"
+CUST_344,"Life Insurance, Health Insurance, Personal Loan, Home Insurance, Fixed Deposit"
+CUST_345,"Home Insurance, Debit Card, Fixed Deposit"
+CUST_346,Personal Loan
+CUST_347,"Current Account, Personal Loan, Debit Card, Home Insurance"
+CUST_348,"Fixed Deposit, Life Insurance, Debit Card, Credit Card, Car Loan"
+CUST_349,"Life Insurance, Home Loan"
+CUST_350,Car Loan
+CUST_351,"Debit Card, Mutual Fund, Personal Loan, Home Insurance"
+CUST_352,"Personal Loan, Debit Card, Car Loan"
+CUST_353,"Life Insurance, Debit Card, Health Insurance, Personal Loan, Fixed Deposit"
+CUST_354,"Health Insurance, Mutual Fund, Debit Card, Car Loan, Home Loan"
+CUST_355,"Life Insurance, Health Insurance, Home Loan, Home Insurance, Credit Card"
+CUST_356,"Health Insurance, Fixed Deposit"
+CUST_357,"Life Insurance, Home Loan, Debit Card, Fixed Deposit"
+CUST_358,"Life Insurance, Fixed Deposit, Car Loan, Credit Card"
+CUST_359,Savings Account
+CUST_360,Personal Loan
+CUST_361,"Car Loan, Fixed Deposit, Mutual Fund, Credit Card, Personal Loan"
+CUST_362,"Savings Account, Car Loan, Current Account, Debit Card"
+CUST_363,"Home Loan, Current Account, Fixed Deposit, Savings Account, Credit Card"
+CUST_364,Current Account
+CUST_365,"Home Insurance, Current Account"
+CUST_366,Life Insurance
+CUST_367,"Fixed Deposit, Debit Card, Home Insurance"
+CUST_368,Fixed Deposit
+CUST_369,"Current Account, Fixed Deposit, Mutual Fund"
+CUST_370,"Home Insurance, Home Loan, Personal Loan, Savings Account"
+CUST_371,"Health Insurance, Debit Card, Credit Card, Current Account"
+CUST_372,"Mutual Fund, Home Loan, Debit Card"
+CUST_373,"Fixed Deposit, Debit Card, Mutual Fund, Home Loan, Savings Account"
+CUST_374,"Current Account, Personal Loan, Debit Card, Credit Card"
+CUST_375,"Debit Card, Fixed Deposit, Mutual Fund"
+CUST_376,Home Loan
+CUST_377,"Car Loan, Personal Loan"
+CUST_378,Savings Account
+CUST_379,"Health Insurance, Home Loan"
+CUST_380,"Current Account, Savings Account, Credit Card, Life Insurance"
+CUST_381,Debit Card
+CUST_382,"Mutual Fund, Savings Account, Current Account, Home Loan, Debit Card"
+CUST_383,"Health Insurance, Car Loan, Life Insurance, Debit Card, Mutual Fund"
+CUST_384,Car Loan
+CUST_385,Current Account
+CUST_386,"Personal Loan, Health Insurance, Debit Card, Current Account, Fixed Deposit"
+CUST_387,"Credit Card, Fixed Deposit, Home Insurance, Savings Account"
+CUST_388,"Personal Loan, Fixed Deposit, Health Insurance, Mutual Fund"
+CUST_389,"Mutual Fund, Debit Card"
+CUST_390,"Current Account, Credit Card"
+CUST_391,"Health Insurance, Home Loan, Current Account"
+CUST_392,"Mutual Fund, Health Insurance, Current Account, Home Insurance, Personal Loan"
+CUST_393,"Home Loan, Home Insurance, Current Account, Health Insurance, Life Insurance"
+CUST_394,"Credit Card, Current Account, Home Loan, Home Insurance, Debit Card"
+CUST_395,"Life Insurance, Home Insurance"
+CUST_396,Personal Loan
+CUST_397,"Home Loan, Life Insurance, Personal Loan, Car Loan, Fixed Deposit"
+CUST_398,"Personal Loan, Home Insurance, Mutual Fund, Debit Card"
+CUST_399,"Savings Account, Credit Card"
+CUST_400,"Mutual Fund, Home Insurance, Debit Card"
+CUST_401,"Health Insurance, Credit Card, Fixed Deposit, Life Insurance"
+CUST_402,Home Loan
+CUST_403,"Car Loan, Credit Card, Personal Loan"
+CUST_404,"Current Account, Personal Loan, Home Insurance, Savings Account"
+CUST_405,"Health Insurance, Personal Loan"
+CUST_406,"Personal Loan, Credit Card, Home Insurance, Savings Account"
+CUST_407,"Fixed Deposit, Home Loan, Car Loan, Debit Card, Current Account"
+CUST_408,Home Insurance
+CUST_409,"Health Insurance, Savings Account, Credit Card, Personal Loan"
+CUST_410,"Savings Account, Mutual Fund, Debit Card, Current Account"
+CUST_411,Home Insurance
+CUST_412,"Credit Card, Car Loan, Health Insurance, Mutual Fund"
+CUST_413,"Mutual Fund, Fixed Deposit, Home Loan"
+CUST_414,"Savings Account, Current Account, Mutual Fund"
+CUST_415,"Health Insurance, Debit Card"
+CUST_416,"Personal Loan, Life Insurance, Car Loan"
+CUST_417,Car Loan
+CUST_418,"Mutual Fund, Personal Loan, Current Account"
+CUST_419,"Mutual Fund, Home Insurance, Health Insurance"
+CUST_420,Car Loan
+CUST_421,"Savings Account, Current Account"
+CUST_422,"Health Insurance, Debit Card, Mutual Fund"
+CUST_423,Personal Loan
+CUST_424,"Home Insurance, Current Account, Fixed Deposit, Personal Loan"
+CUST_425,"Personal Loan, Mutual Fund, Car Loan, Home Insurance"
+CUST_426,"Car Loan, Home Loan, Personal Loan"
+CUST_427,"Credit Card, Personal Loan, Mutual Fund, Fixed Deposit"
+CUST_428,"Fixed Deposit, Credit Card"
+CUST_429,"Home Loan, Mutual Fund, Savings Account, Health Insurance"
+CUST_430,"Savings Account, Home Insurance"
+CUST_431,"Car Loan, Mutual Fund"
+CUST_432,"Personal Loan, Current Account, Mutual Fund"
+CUST_433,"Health Insurance, Personal Loan, Life Insurance, Fixed Deposit, Savings Account"
+CUST_434,"Mutual Fund, Home Insurance, Savings Account"
+CUST_435,"Savings Account, Current Account"
+CUST_436,"Current Account, Health Insurance, Credit Card, Home Insurance"
+CUST_437,"Fixed Deposit, Mutual Fund, Savings Account"
+CUST_438,"Fixed Deposit, Mutual Fund, Current Account, Home Insurance"
+CUST_439,"Current Account, Savings Account"
+CUST_440,"Savings Account, Home Loan, Credit Card, Life Insurance, Personal Loan"
+CUST_441,"Car Loan, Life Insurance, Savings Account, Mutual Fund"
+CUST_442,"Mutual Fund, Personal Loan"
+CUST_443,"Health Insurance, Home Loan, Personal Loan, Debit Card"
+CUST_444,"Life Insurance, Savings Account, Home Loan"
+CUST_445,"Car Loan, Personal Loan, Savings Account"
+CUST_446,Home Insurance
+CUST_447,Savings Account
+CUST_448,Health Insurance
+CUST_449,"Mutual Fund, Fixed Deposit, Life Insurance, Savings Account"
+CUST_450,"Health Insurance, Savings Account, Credit Card, Home Loan"
+CUST_451,Savings Account
+CUST_452,"Fixed Deposit, Mutual Fund, Car Loan"
+CUST_453,"Current Account, Health Insurance, Debit Card, Home Insurance, Personal Loan"
+CUST_454,"Credit Card, Personal Loan, Car Loan, Fixed Deposit, Current Account"
+CUST_455,"Home Loan, Health Insurance, Fixed Deposit"
+CUST_456,Health Insurance
+CUST_457,"Credit Card, Fixed Deposit"
+CUST_458,"Personal Loan, Car Loan, Life Insurance, Debit Card"
+CUST_459,Personal Loan
+CUST_460,"Health Insurance, Credit Card, Current Account"
+CUST_461,"Savings Account, Personal Loan"
+CUST_462,"Current Account, Fixed Deposit, Home Insurance"
+CUST_463,"Mutual Fund, Health Insurance, Personal Loan"
+CUST_464,"Home Loan, Fixed Deposit, Personal Loan, Credit Card"
+CUST_465,Credit Card
+CUST_466,Health Insurance
+CUST_467,"Debit Card, Fixed Deposit"
+CUST_468,"Current Account, Life Insurance, Car Loan"
+CUST_469,"Home Loan, Savings Account, Personal Loan, Mutual Fund, Life Insurance"
+CUST_470,"Savings Account, Fixed Deposit, Debit Card, Credit Card"
+CUST_471,"Home Loan, Debit Card, Health Insurance"
+CUST_472,"Home Loan, Personal Loan, Credit Card"
+CUST_473,Life Insurance
+CUST_474,Health Insurance
+CUST_475,"Home Insurance, Personal Loan, Mutual Fund"
+CUST_476,Savings Account
+CUST_477,"Savings Account, Car Loan, Current Account, Health Insurance"
+CUST_478,"Home Insurance, Fixed Deposit, Life Insurance"
+CUST_479,"Fixed Deposit, Mutual Fund, Home Insurance, Credit Card, Home Loan"
+CUST_480,"Life Insurance, Debit Card, Home Loan"
+CUST_481,"Home Insurance, Mutual Fund, Savings Account"
+CUST_482,"Home Loan, Debit Card, Car Loan, Savings Account, Home Insurance"
+CUST_483,"Fixed Deposit, Debit Card, Health Insurance"
+CUST_484,"Life Insurance, Fixed Deposit, Current Account"
+CUST_485,"Health Insurance, Debit Card, Life Insurance, Fixed Deposit, Personal Loan"
+CUST_486,"Personal Loan, Mutual Fund"
+CUST_487,"Home Loan, Home Insurance, Fixed Deposit, Savings Account"
+CUST_488,"Fixed Deposit, Current Account, Savings Account, Car Loan, Home Loan"
+CUST_489,"Home Insurance, Fixed Deposit, Home Loan, Life Insurance"
+CUST_490,"Home Loan, Savings Account"
+CUST_491,"Personal Loan, Health Insurance, Fixed Deposit, Current Account"
+CUST_492,"Fixed Deposit, Current Account, Car Loan"
+CUST_493,"Car Loan, Personal Loan, Current Account, Fixed Deposit"
+CUST_494,Mutual Fund
+CUST_495,"Debit Card, Credit Card"
+CUST_496,"Life Insurance, Health Insurance, Personal Loan"
+CUST_497,Credit Card
+CUST_498,"Health Insurance, Home Loan, Current Account"
+CUST_499,"Savings Account, Current Account, Home Loan, Health Insurance, Credit Card"
+CUST_500,"Health Insurance, Debit Card"
+CUST_501,"Fixed Deposit, Debit Card"
+CUST_502,"Car Loan, Fixed Deposit"
+CUST_503,Debit Card
+CUST_504,"Debit Card, Health Insurance, Life Insurance"
+CUST_505,"Debit Card, Car Loan, Home Insurance"
+CUST_506,"Home Insurance, Personal Loan, Home Loan, Fixed Deposit"
+CUST_507,"Personal Loan, Credit Card, Home Insurance, Car Loan"
+CUST_508,"Home Insurance, Mutual Fund"
+CUST_509,"Current Account, Mutual Fund, Credit Card, Home Insurance, Personal Loan"
+CUST_510,"Mutual Fund, Car Loan, Fixed Deposit, Savings Account"
+CUST_511,"Life Insurance, Fixed Deposit, Current Account, Personal Loan"
+CUST_512,"Mutual Fund, Personal Loan, Home Insurance, Home Loan"
+CUST_513,Fixed Deposit
+CUST_514,"Home Loan, Home Insurance"
+CUST_515,"Debit Card, Home Insurance, Life Insurance"
+CUST_516,Home Loan
+CUST_517,"Mutual Fund, Debit Card, Home Insurance, Health Insurance"
+CUST_518,"Life Insurance, Current Account, Mutual Fund, Credit Card, Home Insurance"
+CUST_519,"Credit Card, Home Loan, Current Account"
+CUST_520,Credit Card
+CUST_521,Car Loan
+CUST_522,"Savings Account, Current Account, Life Insurance, Health Insurance, Car Loan"
+CUST_523,"Savings Account, Credit Card, Home Insurance, Debit Card, Home Loan"
+CUST_524,"Current Account, Credit Card, Home Loan"
+CUST_525,"Car Loan, Debit Card"
+CUST_526,Savings Account
+CUST_527,"Current Account, Car Loan, Credit Card, Fixed Deposit"
+CUST_528,"Credit Card, Current Account"
+CUST_529,"Mutual Fund, Health Insurance"
+CUST_530,"Car Loan, Debit Card, Mutual Fund"
+CUST_531,"Health Insurance, Debit Card"
+CUST_532,Health Insurance
+CUST_533,Savings Account
+CUST_534,"Savings Account, Fixed Deposit, Current Account, Personal Loan, Health Insurance"
+CUST_535,"Health Insurance, Fixed Deposit"
+CUST_536,Credit Card
+CUST_537,"Home Loan, Home Insurance, Current Account"
+CUST_538,"Mutual Fund, Health Insurance, Credit Card, Fixed Deposit"
+CUST_539,Home Insurance
+CUST_540,"Car Loan, Mutual Fund, Personal Loan, Life Insurance"
+CUST_541,"Home Insurance, Car Loan, Health Insurance, Credit Card, Home Loan"
+CUST_542,"Home Loan, Debit Card, Fixed Deposit"
+CUST_543,"Debit Card, Current Account, Savings Account, Car Loan"
+CUST_544,"Current Account, Credit Card, Health Insurance"
+CUST_545,"Fixed Deposit, Life Insurance, Home Insurance, Personal Loan, Current Account"
+CUST_546,"Mutual Fund, Car Loan, Savings Account, Debit Card, Life Insurance"
+CUST_547,Health Insurance
+CUST_548,"Home Insurance, Car Loan, Home Loan, Savings Account"
+CUST_549,"Home Loan, Current Account"
+CUST_550,Credit Card
+CUST_551,"Current Account, Credit Card, Savings Account, Car Loan, Life Insurance"
+CUST_552,"Current Account, Fixed Deposit, Mutual Fund, Car Loan, Personal Loan"
+CUST_553,"Home Loan, Home Insurance, Life Insurance, Fixed Deposit, Personal Loan"
+CUST_554,"Credit Card, Mutual Fund"
+CUST_555,"Home Loan, Current Account, Home Insurance, Debit Card"
+CUST_556,"Credit Card, Debit Card, Mutual Fund, Personal Loan"
+CUST_557,"Home Loan, Savings Account, Life Insurance"
+CUST_558,"Fixed Deposit, Health Insurance"
+CUST_559,Car Loan
+CUST_560,"Car Loan, Life Insurance, Savings Account"
+CUST_561,"Debit Card, Savings Account, Fixed Deposit, Home Insurance"
+CUST_562,"Life Insurance, Car Loan, Home Loan, Fixed Deposit, Credit Card"
+CUST_563,"Current Account, Savings Account"
+CUST_564,"Current Account, Savings Account, Fixed Deposit, Personal Loan, Home Insurance"
+CUST_565,Savings Account
+CUST_566,"Fixed Deposit, Home Loan"
+CUST_567,"Health Insurance, Home Loan, Home Insurance, Car Loan"
+CUST_568,"Fixed Deposit, Personal Loan"
+CUST_569,"Home Loan, Current Account, Health Insurance, Home Insurance"
+CUST_570,Savings Account
+CUST_571,Personal Loan
+CUST_572,Credit Card
+CUST_573,"Credit Card, Mutual Fund, Current Account"
+CUST_574,"Current Account, Mutual Fund"
+CUST_575,"Life Insurance, Current Account, Personal Loan, Fixed Deposit"
+CUST_576,"Health Insurance, Savings Account, Home Insurance"
+CUST_577,Debit Card
+CUST_578,Fixed Deposit
+CUST_579,"Life Insurance, Home Insurance, Car Loan, Fixed Deposit"
+CUST_580,"Life Insurance, Fixed Deposit"
+CUST_581,"Mutual Fund, Health Insurance"
+CUST_582,"Current Account, Personal Loan, Home Loan, Savings Account, Home Insurance"
+CUST_583,"Savings Account, Life Insurance"
+CUST_584,"Mutual Fund, Fixed Deposit, Home Insurance"
+CUST_585,"Life Insurance, Current Account, Home Loan"
+CUST_586,"Debit Card, Home Loan, Credit Card, Personal Loan"
+CUST_587,"Credit Card, Mutual Fund"
+CUST_588,"Debit Card, Health Insurance, Current Account"
+CUST_589,Home Loan
+CUST_590,Health Insurance
+CUST_591,"Savings Account, Fixed Deposit, Personal Loan, Current Account"
+CUST_592,"Home Loan, Personal Loan, Health Insurance, Savings Account"
+CUST_593,"Home Insurance, Life Insurance, Car Loan, Fixed Deposit, Personal Loan"
+CUST_594,"Savings Account, Fixed Deposit, Car Loan, Personal Loan"
+CUST_595,"Home Insurance, Home Loan"
+CUST_596,Savings Account
+CUST_597,Health Insurance
+CUST_598,"Home Insurance, Credit Card, Car Loan, Mutual Fund, Savings Account"
+CUST_599,Mutual Fund
+CUST_600,"Life Insurance, Savings Account, Car Loan, Current Account"
+CUST_601,"Health Insurance, Fixed Deposit, Mutual Fund, Home Loan"
+CUST_602,"Fixed Deposit, Personal Loan, Home Loan, Life Insurance, Car Loan"
+CUST_603,Health Insurance
+CUST_604,"Debit Card, Home Insurance, Savings Account, Car Loan, Life Insurance"
+CUST_605,"Car Loan, Home Insurance, Savings Account"
+CUST_606,"Home Insurance, Personal Loan, Car Loan, Savings Account"
+CUST_607,"Car Loan, Credit Card"
+CUST_608,Car Loan
+CUST_609,"Health Insurance, Home Loan, Car Loan"
+CUST_610,"Personal Loan, Fixed Deposit, Home Loan, Car Loan, Life Insurance"
+CUST_611,Fixed Deposit
+CUST_612,"Mutual Fund, Health Insurance, Car Loan"
+CUST_613,"Current Account, Credit Card"
+CUST_614,"Home Insurance, Home Loan"
+CUST_615,"Debit Card, Health Insurance, Life Insurance, Savings Account, Home Insurance"
+CUST_616,"Current Account, Credit Card"
+CUST_617,"Debit Card, Life Insurance, Savings Account, Fixed Deposit"
+CUST_618,"Home Insurance, Mutual Fund, Debit Card, Car Loan"
+CUST_619,"Current Account, Debit Card, Home Insurance, Mutual Fund, Home Loan"
+CUST_620,"Car Loan, Mutual Fund, Personal Loan, Current Account, Credit Card"
+CUST_621,"Home Loan, Current Account"
+CUST_622,"Credit Card, Personal Loan, Home Insurance, Fixed Deposit, Debit Card"
+CUST_623,"Mutual Fund, Fixed Deposit, Credit Card, Personal Loan"
+CUST_624,"Car Loan, Home Insurance"
+CUST_625,"Car Loan, Personal Loan, Home Loan, Credit Card, Health Insurance"
+CUST_626,"Savings Account, Fixed Deposit, Home Loan"
+CUST_627,"Savings Account, Current Account"
+CUST_628,Personal Loan
+CUST_629,Home Loan
+CUST_630,"Health Insurance, Mutual Fund"
+CUST_631,"Home Loan, Life Insurance"
+CUST_632,"Debit Card, Savings Account, Home Loan, Life Insurance, Health Insurance"
+CUST_633,"Personal Loan, Mutual Fund, Home Insurance"
+CUST_634,Mutual Fund
+CUST_635,"Current Account, Health Insurance, Debit Card, Home Loan"
+CUST_636,Credit Card
+CUST_637,Fixed Deposit
+CUST_638,"Credit Card, Life Insurance"
+CUST_639,"Fixed Deposit, Personal Loan, Savings Account, Car Loan"
+CUST_640,"Current Account, Home Loan, Mutual Fund, Life Insurance, Fixed Deposit"
+CUST_641,"Life Insurance, Car Loan, Credit Card"
+CUST_642,"Home Insurance, Fixed Deposit"
+CUST_643,"Fixed Deposit, Home Insurance, Savings Account, Personal Loan"
+CUST_644,"Current Account, Personal Loan, Savings Account"
+CUST_645,"Car Loan, Credit Card"
+CUST_646,"Car Loan, Personal Loan, Life Insurance, Debit Card"
+CUST_647,"Personal Loan, Mutual Fund"
+CUST_648,"Current Account, Debit Card, Mutual Fund"
+CUST_649,"Fixed Deposit, Home Insurance, Savings Account"
+CUST_650,"Life Insurance, Savings Account, Personal Loan, Health Insurance, Home Insurance"
+CUST_651,"Home Loan, Personal Loan, Mutual Fund, Health Insurance"
+CUST_652,Home Loan
+CUST_653,"Personal Loan, Mutual Fund, Life Insurance, Current Account, Car Loan"
+CUST_654,"Credit Card, Mutual Fund, Home Insurance, Health Insurance, Car Loan"
+CUST_655,"Fixed Deposit, Savings Account, Life Insurance, Home Loan"
+CUST_656,"Personal Loan, Current Account, Life Insurance, Home Insurance"
+CUST_657,"Life Insurance, Fixed Deposit, Current Account"
+CUST_658,"Current Account, Mutual Fund, Home Loan, Savings Account, Health Insurance"
+CUST_659,"Car Loan, Credit Card, Home Insurance, Mutual Fund"
+CUST_660,"Credit Card, Fixed Deposit"
+CUST_661,"Life Insurance, Debit Card"
+CUST_662,"Credit Card, Home Loan, Home Insurance, Car Loan, Mutual Fund"
+CUST_663,"Health Insurance, Credit Card"
+CUST_664,"Car Loan, Health Insurance, Personal Loan, Home Insurance, Savings Account"
+CUST_665,"Car Loan, Debit Card, Savings Account, Home Loan"
+CUST_666,"Personal Loan, Home Insurance, Current Account, Fixed Deposit, Home Loan"
+CUST_667,"Fixed Deposit, Mutual Fund, Health Insurance, Home Insurance"
+CUST_668,"Life Insurance, Home Insurance"
+CUST_669,Debit Card
+CUST_670,"Home Loan, Mutual Fund, Credit Card"
+CUST_671,Fixed Deposit
+CUST_672,"Fixed Deposit, Debit Card, Credit Card, Current Account, Home Insurance"
+CUST_673,"Car Loan, Health Insurance, Savings Account"
+CUST_674,"Health Insurance, Life Insurance, Personal Loan"
+CUST_675,"Debit Card, Credit Card, Personal Loan, Home Insurance, Current Account"
+CUST_676,Fixed Deposit
+CUST_677,Life Insurance
+CUST_678,"Home Loan, Credit Card, Home Insurance, Debit Card, Health Insurance"
+CUST_679,Credit Card
+CUST_680,"Life Insurance, Car Loan, Credit Card"
+CUST_681,"Credit Card, Life Insurance"
+CUST_682,Credit Card
+CUST_683,Home Insurance
+CUST_684,"Home Insurance, Car Loan, Life Insurance, Savings Account, Mutual Fund"
+CUST_685,"Credit Card, Mutual Fund, Car Loan, Home Insurance, Savings Account"
+CUST_686,Mutual Fund
+CUST_687,"Car Loan, Life Insurance"
+CUST_688,Debit Card
+CUST_689,"Fixed Deposit, Health Insurance, Mutual Fund, Home Insurance"
+CUST_690,Mutual Fund
+CUST_691,"Personal Loan, Fixed Deposit, Current Account, Credit Card, Home Loan"
+CUST_692,Home Loan
+CUST_693,"Life Insurance, Health Insurance, Mutual Fund"
+CUST_694,"Home Insurance, Life Insurance, Personal Loan"
+CUST_695,"Health Insurance, Home Insurance, Personal Loan"
+CUST_696,"Car Loan, Life Insurance, Savings Account"
+CUST_697,Personal Loan
+CUST_698,"Mutual Fund, Debit Card"
+CUST_699,"Personal Loan, Home Insurance, Home Loan"
+CUST_700,"Debit Card, Home Insurance, Health Insurance"
+CUST_701,"Fixed Deposit, Personal Loan, Savings Account"
+CUST_702,"Mutual Fund, Life Insurance, Personal Loan"
+CUST_703,"Credit Card, Health Insurance, Car Loan, Mutual Fund, Home Insurance"
+CUST_704,"Credit Card, Home Loan, Debit Card, Life Insurance"
+CUST_705,"Savings Account, Debit Card, Credit Card, Health Insurance"
+CUST_706,"Savings Account, Debit Card, Mutual Fund, Home Insurance, Fixed Deposit"
+CUST_707,Personal Loan
+CUST_708,"Savings Account, Current Account"
+CUST_709,"Car Loan, Debit Card"
+CUST_710,Fixed Deposit
+CUST_711,"Home Loan, Savings Account, Car Loan, Current Account, Personal Loan"
+CUST_712,"Car Loan, Home Loan, Mutual Fund, Current Account"
+CUST_713,"Savings Account, Home Insurance"
+CUST_714,Health Insurance
+CUST_715,"Credit Card, Health Insurance, Mutual Fund, Fixed Deposit"
+CUST_716,"Life Insurance, Mutual Fund, Personal Loan, Home Loan"
+CUST_717,"Fixed Deposit, Health Insurance, Home Loan, Savings Account, Debit Card"
+CUST_718,"Fixed Deposit, Health Insurance, Current Account, Personal Loan, Savings Account"
+CUST_719,Debit Card
+CUST_720,Savings Account
+CUST_721,"Debit Card, Home Insurance"
+CUST_722,Personal Loan
+CUST_723,Savings Account
+CUST_724,"Current Account, Credit Card, Home Insurance"
+CUST_725,"Credit Card, Home Insurance, Mutual Fund"
+CUST_726,"Credit Card, Debit Card, Home Insurance"
+CUST_727,Credit Card
+CUST_728,Mutual Fund
+CUST_729,"Home Loan, Debit Card, Car Loan, Home Insurance, Savings Account"
+CUST_730,"Current Account, Debit Card, Savings Account, Personal Loan"
+CUST_731,"Home Insurance, Home Loan, Personal Loan, Health Insurance, Fixed Deposit"
+CUST_732,"Health Insurance, Personal Loan, Debit Card, Fixed Deposit, Life Insurance"
+CUST_733,"Personal Loan, Savings Account, Health Insurance, Debit Card"
+CUST_734,"Debit Card, Savings Account, Home Insurance"
+CUST_735,Current Account
+CUST_736,"Home Loan, Credit Card, Personal Loan"
+CUST_737,"Car Loan, Savings Account, Debit Card"
+CUST_738,"Home Loan, Health Insurance, Home Insurance, Personal Loan, Car Loan"
+CUST_739,"Credit Card, Home Loan, Mutual Fund"
+CUST_740,Debit Card
+CUST_741,Car Loan
+CUST_742,"Home Insurance, Health Insurance"
+CUST_743,"Life Insurance, Current Account, Home Insurance, Credit Card"
+CUST_744,"Fixed Deposit, Credit Card"
+CUST_745,"Fixed Deposit, Mutual Fund"
+CUST_746,"Home Loan, Home Insurance"
+CUST_747,"Debit Card, Personal Loan, Home Loan"
+CUST_748,"Personal Loan, Home Insurance, Car Loan"
+CUST_749,"Car Loan, Credit Card, Home Loan, Mutual Fund, Personal Loan"
+CUST_750,"Mutual Fund, Car Loan, Home Insurance"
+CUST_751,"Home Loan, Health Insurance"
+CUST_752,Home Loan
+CUST_753,"Credit Card, Mutual Fund"
+CUST_754,Car Loan
+CUST_755,"Fixed Deposit, Home Insurance, Mutual Fund, Health Insurance, Credit Card"
+CUST_756,Debit Card
+CUST_757,"Fixed Deposit, Personal Loan, Home Loan, Health Insurance, Savings Account"
+CUST_758,Personal Loan
+CUST_759,"Mutual Fund, Credit Card, Car Loan, Personal Loan, Savings Account"
+CUST_760,Current Account
+CUST_761,"Fixed Deposit, Debit Card, Life Insurance"
+CUST_762,"Fixed Deposit, Savings Account, Current Account"
+CUST_763,Home Insurance
+CUST_764,"Car Loan, Savings Account, Life Insurance"
+CUST_765,"Mutual Fund, Credit Card"
+CUST_766,"Home Loan, Savings Account, Fixed Deposit, Debit Card"
+CUST_767,"Fixed Deposit, Credit Card, Savings Account, Personal Loan"
+CUST_768,Savings Account
+CUST_769,"Credit Card, Savings Account, Fixed Deposit, Health Insurance, Life Insurance"
+CUST_770,"Savings Account, Mutual Fund, Life Insurance"
+CUST_771,Home Loan
+CUST_772,"Health Insurance, Personal Loan"
+CUST_773,"Current Account, Debit Card, Savings Account"
+CUST_774,"Fixed Deposit, Home Insurance, Car Loan, Current Account, Health Insurance"
+CUST_775,"Home Loan, Savings Account, Mutual Fund, Credit Card, Life Insurance"
+CUST_776,"Car Loan, Savings Account, Credit Card, Current Account"
+CUST_777,"Current Account, Car Loan, Personal Loan, Health Insurance"
+CUST_778,"Life Insurance, Debit Card, Fixed Deposit, Home Insurance, Savings Account"
+CUST_779,Credit Card
+CUST_780,"Home Loan, Home Insurance, Debit Card"
+CUST_781,"Home Loan, Health Insurance, Current Account, Credit Card"
+CUST_782,"Credit Card, Mutual Fund"
+CUST_783,Current Account
+CUST_784,"Personal Loan, Life Insurance"
+CUST_785,"Current Account, Home Insurance, Credit Card"
+CUST_786,"Fixed Deposit, Health Insurance, Car Loan, Home Loan, Personal Loan"
+CUST_787,"Savings Account, Mutual Fund, Current Account, Credit Card, Health Insurance"
+CUST_788,"Personal Loan, Fixed Deposit, Savings Account, Current Account, Car Loan"
+CUST_789,"Mutual Fund, Credit Card, Personal Loan"
+CUST_790,"Savings Account, Fixed Deposit"
+CUST_791,"Car Loan, Savings Account"
+CUST_792,"Debit Card, Health Insurance, Home Loan, Home Insurance, Current Account"
+CUST_793,Home Insurance
+CUST_794,"Savings Account, Credit Card, Fixed Deposit, Health Insurance"
+CUST_795,"Mutual Fund, Car Loan"
+CUST_796,"Fixed Deposit, Mutual Fund, Debit Card, Car Loan, Health Insurance"
+CUST_797,"Health Insurance, Current Account, Mutual Fund, Car Loan"
+CUST_798,"Savings Account, Fixed Deposit, Credit Card, Home Insurance, Personal Loan"
+CUST_799,"Current Account, Fixed Deposit, Credit Card"
+CUST_800,Personal Loan
+CUST_801,Personal Loan
+CUST_802,"Credit Card, Debit Card, Savings Account, Health Insurance, Fixed Deposit"
+CUST_803,"Current Account, Personal Loan"
+CUST_804,"Debit Card, Credit Card, Personal Loan"
+CUST_805,"Fixed Deposit, Current Account, Mutual Fund, Home Insurance, Credit Card"
+CUST_806,Life Insurance
+CUST_807,Personal Loan
+CUST_808,"Health Insurance, Car Loan, Current Account, Savings Account"
+CUST_809,"Home Insurance, Health Insurance, Current Account"
+CUST_810,"Current Account, Debit Card, Personal Loan, Home Loan"
+CUST_811,"Home Insurance, Mutual Fund, Personal Loan, Savings Account"
+CUST_812,Current Account
+CUST_813,"Home Loan, Debit Card, Fixed Deposit"
+CUST_814,"Debit Card, Home Loan, Fixed Deposit"
+CUST_815,Car Loan
+CUST_816,"Credit Card, Personal Loan, Life Insurance, Health Insurance, Debit Card"
+CUST_817,Life Insurance
+CUST_818,"Savings Account, Fixed Deposit"
+CUST_819,"Savings Account, Home Loan, Life Insurance"
+CUST_820,"Health Insurance, Credit Card, Personal Loan, Current Account, Life Insurance"
+CUST_821,"Credit Card, Mutual Fund"
+CUST_822,"Savings Account, Debit Card, Health Insurance"
+CUST_823,"Home Loan, Debit Card, Savings Account, Home Insurance, Fixed Deposit"
+CUST_824,"Life Insurance, Current Account"
+CUST_825,"Health Insurance, Life Insurance, Home Insurance, Personal Loan, Car Loan"
+CUST_826,"Health Insurance, Personal Loan, Current Account"
+CUST_827,Mutual Fund
+CUST_828,"Life Insurance, Savings Account, Fixed Deposit"
+CUST_829,Home Insurance
+CUST_830,Debit Card
+CUST_831,Life Insurance
+CUST_832,"Car Loan, Debit Card, Savings Account"
+CUST_833,"Life Insurance, Health Insurance, Personal Loan"
+CUST_834,"Credit Card, Fixed Deposit"
+CUST_835,"Savings Account, Life Insurance, Home Insurance, Health Insurance"
+CUST_836,"Personal Loan, Debit Card, Health Insurance"
+CUST_837,"Current Account, Credit Card, Car Loan, Home Insurance, Fixed Deposit"
+CUST_838,"Life Insurance, Health Insurance, Mutual Fund, Savings Account, Current Account"
+CUST_839,Mutual Fund
+CUST_840,"Fixed Deposit, Car Loan, Debit Card, Mutual Fund"
+CUST_841,"Home Loan, Home Insurance, Life Insurance, Current Account"
+CUST_842,"Home Insurance, Personal Loan, Home Loan, Current Account, Health Insurance"
+CUST_843,"Mutual Fund, Current Account"
+CUST_844,Personal Loan
+CUST_845,"Credit Card, Current Account"
+CUST_846,"Fixed Deposit, Current Account, Home Loan, Savings Account, Home Insurance"
+CUST_847,"Car Loan, Life Insurance"
+CUST_848,"Savings Account, Mutual Fund, Personal Loan, Fixed Deposit, Debit Card"
+CUST_849,"Current Account, Debit Card, Mutual Fund, Home Insurance"
+CUST_850,"Mutual Fund, Personal Loan, Savings Account, Current Account, Credit Card"
+CUST_851,"Home Insurance, Fixed Deposit, Credit Card, Life Insurance, Personal Loan"
+CUST_852,"Life Insurance, Fixed Deposit, Debit Card"
+CUST_853,"Life Insurance, Personal Loan, Home Insurance"
+CUST_854,"Home Insurance, Mutual Fund, Savings Account, Credit Card, Life Insurance"
+CUST_855,"Personal Loan, Credit Card, Health Insurance, Current Account, Life Insurance"
+CUST_856,Fixed Deposit
+CUST_857,"Credit Card, Savings Account"
+CUST_858,Car Loan
+CUST_859,"Personal Loan, Fixed Deposit"
+CUST_860,"Debit Card, Life Insurance, Credit Card"
+CUST_861,"Current Account, Home Insurance, Health Insurance, Personal Loan, Credit Card"
+CUST_862,"Home Insurance, Health Insurance, Savings Account, Personal Loan"
+CUST_863,"Home Loan, Mutual Fund, Credit Card"
+CUST_864,"Mutual Fund, Personal Loan, Credit Card, Debit Card"
+CUST_865,"Home Insurance, Fixed Deposit, Personal Loan, Home Loan, Debit Card"
+CUST_866,"Mutual Fund, Personal Loan, Car Loan, Home Insurance"
+CUST_867,"Health Insurance, Mutual Fund, Fixed Deposit"
+CUST_868,"Personal Loan, Car Loan"
+CUST_869,"Home Loan, Personal Loan, Life Insurance, Health Insurance, Savings Account"
+CUST_870,"Life Insurance, Car Loan, Current Account, Savings Account"
+CUST_871,"Home Loan, Current Account, Mutual Fund, Fixed Deposit"
+CUST_872,"Fixed Deposit, Mutual Fund, Health Insurance, Debit Card, Personal Loan"
+CUST_873,"Home Loan, Savings Account, Mutual Fund"
+CUST_874,"Savings Account, Debit Card, Home Loan"
+CUST_875,"Fixed Deposit, Current Account"
+CUST_876,"Current Account, Car Loan, Health Insurance, Mutual Fund, Home Insurance"
+CUST_877,"Credit Card, Debit Card, Fixed Deposit"
+CUST_878,"Savings Account, Debit Card, Home Insurance, Mutual Fund"
+CUST_879,"Debit Card, Home Loan, Credit Card, Current Account"
+CUST_880,"Personal Loan, Mutual Fund, Home Loan, Current Account, Car Loan"
+CUST_881,"Home Insurance, Home Loan, Car Loan, Current Account"
+CUST_882,"Car Loan, Mutual Fund, Debit Card, Personal Loan, Life Insurance"
+CUST_883,"Life Insurance, Home Loan"
+CUST_884,"Fixed Deposit, Credit Card"
+CUST_885,"Home Insurance, Current Account, Car Loan"
+CUST_886,"Life Insurance, Savings Account, Health Insurance, Credit Card"
+CUST_887,"Personal Loan, Car Loan, Debit Card, Mutual Fund, Fixed Deposit"
+CUST_888,"Health Insurance, Life Insurance, Current Account"
+CUST_889,"Personal Loan, Fixed Deposit"
+CUST_890,"Life Insurance, Car Loan, Fixed Deposit"
+CUST_891,"Home Insurance, Car Loan, Credit Card, Current Account"
+CUST_892,"Current Account, Credit Card, Debit Card"
+CUST_893,"Credit Card, Personal Loan, Health Insurance, Life Insurance"
+CUST_894,Life Insurance
+CUST_895,"Home Insurance, Credit Card"
+CUST_896,"Home Loan, Credit Card, Life Insurance, Savings Account"
+CUST_897,"Health Insurance, Mutual Fund"
+CUST_898,"Credit Card, Personal Loan"
+CUST_899,Life Insurance
+CUST_900,"Mutual Fund, Health Insurance"
+CUST_901,Current Account
+CUST_902,"Current Account, Credit Card"
+CUST_903,"Health Insurance, Personal Loan, Mutual Fund, Current Account, Debit Card"
+CUST_904,Car Loan
+CUST_905,"Fixed Deposit, Current Account, Car Loan"
+CUST_906,"Personal Loan, Debit Card, Life Insurance, Current Account, Car Loan"
+CUST_907,"Credit Card, Home Loan, Debit Card"
+CUST_908,Credit Card
+CUST_909,Health Insurance
+CUST_910,Savings Account
+CUST_911,"Debit Card, Mutual Fund, Life Insurance, Personal Loan"
+CUST_912,"Home Loan, Mutual Fund, Life Insurance, Debit Card"
+CUST_913,"Car Loan, Life Insurance"
+CUST_914,"Life Insurance, Credit Card, Home Loan"
+CUST_915,"Fixed Deposit, Personal Loan, Home Insurance, Life Insurance, Car Loan"
+CUST_916,"Current Account, Car Loan, Debit Card, Mutual Fund, Health Insurance"
+CUST_917,"Home Loan, Car Loan, Personal Loan, Debit Card, Savings Account"
+CUST_918,"Home Insurance, Debit Card, Life Insurance, Personal Loan, Health Insurance"
+CUST_919,"Fixed Deposit, Credit Card, Home Loan, Current Account, Debit Card"
+CUST_920,"Credit Card, Fixed Deposit, Life Insurance"
+CUST_921,"Personal Loan, Savings Account, Current Account"
+CUST_922,"Credit Card, Current Account, Home Insurance"
+CUST_923,"Health Insurance, Fixed Deposit, Car Loan"
+CUST_924,"Home Insurance, Life Insurance, Savings Account"
+CUST_925,"Home Loan, Credit Card, Mutual Fund"
+CUST_926,"Home Insurance, Car Loan, Personal Loan"
+CUST_927,"Car Loan, Life Insurance"
+CUST_928,Home Insurance
+CUST_929,"Savings Account, Home Insurance, Credit Card, Mutual Fund"
+CUST_930,"Personal Loan, Car Loan, Debit Card, Credit Card, Health Insurance"
+CUST_931,Credit Card
+CUST_932,Health Insurance
+CUST_933,"Current Account, Home Insurance"
+CUST_934,"Car Loan, Mutual Fund, Credit Card, Debit Card, Health Insurance"
+CUST_935,"Life Insurance, Debit Card"
+CUST_936,"Savings Account, Life Insurance, Current Account, Mutual Fund"
+CUST_937,"Car Loan, Home Insurance, Debit Card"
+CUST_938,"Personal Loan, Health Insurance, Credit Card"
+CUST_939,"Car Loan, Home Insurance, Savings Account, Mutual Fund"
+CUST_940,"Car Loan, Home Insurance, Personal Loan, Savings Account"
+CUST_941,"Current Account, Savings Account"
+CUST_942,"Home Loan, Car Loan, Fixed Deposit"
+CUST_943,"Credit Card, Savings Account, Health Insurance, Mutual Fund"
+CUST_944,"Personal Loan, Debit Card, Savings Account"
+CUST_945,"Life Insurance, Savings Account, Home Insurance, Home Loan"
+CUST_946,"Savings Account, Car Loan, Fixed Deposit, Home Loan"
+CUST_947,Savings Account
+CUST_948,Life Insurance
+CUST_949,"Home Loan, Savings Account, Home Insurance, Life Insurance, Mutual Fund"
+CUST_950,"Debit Card, Life Insurance, Personal Loan, Home Insurance, Home Loan"
+CUST_951,"Home Loan, Current Account, Health Insurance"
+CUST_952,Car Loan
+CUST_953,"Debit Card, Credit Card, Personal Loan, Home Loan, Fixed Deposit"
+CUST_954,"Health Insurance, Personal Loan, Home Loan, Current Account"
+CUST_955,"Mutual Fund, Personal Loan, Fixed Deposit"
+CUST_956,"Credit Card, Mutual Fund, Debit Card, Fixed Deposit"
+CUST_957,"Credit Card, Current Account"
+CUST_958,"Car Loan, Home Loan, Debit Card"
+CUST_959,"Life Insurance, Debit Card, Savings Account, Mutual Fund, Fixed Deposit"
+CUST_960,"Fixed Deposit, Home Insurance, Savings Account, Personal Loan, Car Loan"
+CUST_961,Health Insurance
+CUST_962,"Fixed Deposit, Life Insurance, Home Loan, Savings Account"
+CUST_963,"Current Account, Life Insurance, Fixed Deposit"
+CUST_964,Fixed Deposit
+CUST_965,"Credit Card, Savings Account, Home Loan, Fixed Deposit, Health Insurance"
+CUST_966,Credit Card
+CUST_967,Mutual Fund
+CUST_968,"Home Loan, Savings Account"
+CUST_969,"Personal Loan, Mutual Fund, Home Insurance, Life Insurance, Credit Card"
+CUST_970,"Debit Card, Home Loan, Personal Loan, Current Account, Home Insurance"
+CUST_971,"Home Insurance, Car Loan, Life Insurance"
+CUST_972,"Home Loan, Home Insurance"
+CUST_973,"Car Loan, Mutual Fund, Debit Card"
+CUST_974,"Credit Card, Debit Card, Mutual Fund, Fixed Deposit, Current Account"
+CUST_975,"Health Insurance, Life Insurance, Credit Card, Debit Card"
+CUST_976,"Home Loan, Home Insurance, Current Account, Debit Card, Credit Card"
+CUST_977,"Credit Card, Mutual Fund, Fixed Deposit, Debit Card, Current Account"
+CUST_978,"Fixed Deposit, Home Loan, Home Insurance"
+CUST_979,"Home Loan, Car Loan, Personal Loan, Health Insurance, Debit Card"
+CUST_980,"Life Insurance, Personal Loan"
+CUST_981,"Personal Loan, Home Insurance, Fixed Deposit"
+CUST_982,"Current Account, Home Loan, Car Loan, Savings Account, Health Insurance"
+CUST_983,"Health Insurance, Personal Loan, Mutual Fund, Savings Account"
+CUST_984,Savings Account
+CUST_985,"Home Insurance, Life Insurance, Debit Card, Personal Loan"
+CUST_986,"Current Account, Savings Account, Health Insurance, Debit Card, Mutual Fund"
+CUST_987,"Credit Card, Mutual Fund, Current Account, Health Insurance"
+CUST_988,"Personal Loan, Mutual Fund"
+CUST_989,"Health Insurance, Fixed Deposit, Debit Card, Home Loan, Life Insurance"
+CUST_990,"Fixed Deposit, Car Loan, Home Insurance, Health Insurance, Debit Card"
+CUST_991,"Credit Card, Car Loan, Personal Loan"
+CUST_992,"Home Insurance, Mutual Fund, Home Loan"
+CUST_993,"Home Loan, Personal Loan, Fixed Deposit, Debit Card, Current Account"
+CUST_994,"Debit Card, Fixed Deposit, Home Loan"
+CUST_995,Home Insurance
+CUST_996,Home Insurance
+CUST_997,"Savings Account, Mutual Fund"
+CUST_998,Savings Account
+CUST_999,"Home Insurance, Life Insurance"
+CUST_1000,"Home Insurance, Current Account"
